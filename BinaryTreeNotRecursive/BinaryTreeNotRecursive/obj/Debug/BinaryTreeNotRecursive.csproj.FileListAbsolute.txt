@@ -1,0 +1,12 @@
+C:\Users\avane\OneDrive\Рабочий стол\Всё сдал\Антон_1116890\2444576\BinaryTreeNotRecursive\BinaryTreeNotRecursive\bin\Debug\BinaryTreeNotRecursive.exe.config
+C:\Users\avane\OneDrive\Рабочий стол\Всё сдал\Антон_1116890\2444576\BinaryTreeNotRecursive\BinaryTreeNotRecursive\bin\Debug\BinaryTreeNotRecursive.exe
+C:\Users\avane\OneDrive\Рабочий стол\Всё сдал\Антон_1116890\2444576\BinaryTreeNotRecursive\BinaryTreeNotRecursive\bin\Debug\BinaryTreeNotRecursive.pdb
+C:\Users\avane\OneDrive\Рабочий стол\Всё сдал\Антон_1116890\2444576\BinaryTreeNotRecursive\BinaryTreeNotRecursive\obj\Debug\BinaryTreeNotRecursive.csprojResolveAssemblyReference.cache
+C:\Users\avane\OneDrive\Рабочий стол\Всё сдал\Антон_1116890\2444576\BinaryTreeNotRecursive\BinaryTreeNotRecursive\obj\Debug\BinaryTreeNotRecursive.exe
+C:\Users\avane\OneDrive\Рабочий стол\Всё сдал\Антон_1116890\2444576\BinaryTreeNotRecursive\BinaryTreeNotRecursive\obj\Debug\BinaryTreeNotRecursive.pdb
+C:\Users\user\Desktop\BinaryTreeNotRecursive\BinaryTreeNotRecursive\bin\Debug\BinaryTreeNotRecursive.exe.config
+C:\Users\user\Desktop\BinaryTreeNotRecursive\BinaryTreeNotRecursive\bin\Debug\BinaryTreeNotRecursive.exe
+C:\Users\user\Desktop\BinaryTreeNotRecursive\BinaryTreeNotRecursive\bin\Debug\BinaryTreeNotRecursive.pdb
+C:\Users\user\Desktop\BinaryTreeNotRecursive\BinaryTreeNotRecursive\obj\Debug\BinaryTreeNotRecursive.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BinaryTreeNotRecursive\BinaryTreeNotRecursive\obj\Debug\BinaryTreeNotRecursive.exe
+C:\Users\user\Desktop\BinaryTreeNotRecursive\BinaryTreeNotRecursive\obj\Debug\BinaryTreeNotRecursive.pdb
